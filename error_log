@@ -1,0 +1,73 @@
+[03-Nov-2015 12:04:30 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 55
+[03-Nov-2015 12:04:34 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 55
+[03-Nov-2015 12:04:38 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 55
+[03-Nov-2015 12:04:46 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 55
+[03-Nov-2015 12:08:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected '?' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 55
+[03-Nov-2015 12:08:07 Europe/Moscow] PHP Parse error:  syntax error, unexpected '?' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 55
+[03-Nov-2015 12:11:35 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 55
+[03-Nov-2015 12:31:50 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/micomm/public_html/register/application/views/v_header.php on line 2
+[03-Nov-2015 12:32:08 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/micomm/public_html/register/application/views/v_header.php on line 2
+[05-Nov-2015 13:35:30 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_ELSE in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 80
+[05-Nov-2015 13:35:33 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_ELSE in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 80
+[05-Nov-2015 13:35:46 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_ELSE in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 80
+[06-Nov-2015 11:13:37 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/micomm/public_html/register/application/views/vt_micomm.php on line 62
+[06-Nov-2015 11:13:39 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/micomm/public_html/register/application/views/vt_micomm.php on line 62
+[13-Nov-2015 14:06:25 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/micomm/public_html/register/application/views/vt_micomm.php on line 137
+[13-Nov-2015 15:02:24 Europe/Moscow] PHP Fatal error:  Cannot redeclare DateToIndo() (previously declared in /home/micomm/public_html/register/application/views/vt_micomm.php:138) in /home/micomm/public_html/register/application/views/vt_micomm.php on line 138
+[13-Nov-2015 15:02:32 Europe/Moscow] PHP Fatal error:  Cannot redeclare DateToIndo() (previously declared in /home/micomm/public_html/register/application/views/vt_micomm.php:138) in /home/micomm/public_html/register/application/views/vt_micomm.php on line 138
+[13-Nov-2015 15:03:46 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/micomm/public_html/register/application/views/vt_micomm.php on line 82
+[13-Nov-2015 15:05:01 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/micomm/public_html/register/application/views/vt_micomm.php on line 82
+[13-Nov-2015 15:05:41 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/micomm/public_html/register/application/views/vt_micomm.php on line 88
+[13-Nov-2015 15:06:28 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/micomm/public_html/register/application/views/vt_micomm.php on line 89
+[13-Nov-2015 15:08:31 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/micomm/public_html/register/application/views/vt_micomm.php on line 89
+[13-Nov-2015 15:15:02 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/micomm/public_html/register/application/views/vt_micomm.php on line 89
+[18-Nov-2015 13:54:52 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/micomm/public_html/register/application/views/vt_micomm.php on line 142
+[18-Nov-2015 13:55:00 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/micomm/public_html/register/application/views/vt_micomm.php on line 142
+[18-Nov-2015 13:56:31 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/micomm/public_html/register/application/views/vt_micomm.php on line 142
+[18-Nov-2015 13:57:28 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/micomm/public_html/register/application/views/vt_micomm.php on line 142
+[18-Nov-2015 15:30:06 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_INC in /home/micomm/public_html/register/application/views/vt_cari.php on line 84
+[18-Nov-2015 15:36:32 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_INC in /home/micomm/public_html/register/application/views/vt_cari.php on line 84
+[18-Nov-2015 15:43:51 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_INC in /home/micomm/public_html/register/application/views/vt_cari.php on line 84
+[18-Nov-2015 15:45:09 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_INC in /home/micomm/public_html/register/application/views/vt_cari.php on line 85
+[18-Nov-2015 15:45:12 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_INC in /home/micomm/public_html/register/application/views/vt_cari.php on line 85
+[18-Nov-2015 15:46:08 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_INC in /home/micomm/public_html/register/application/views/vt_cari.php on line 81
+[19-Nov-2015 06:43:16 Europe/Moscow] PHP Parse error:  syntax error, unexpected '}' in /home/micomm/public_html/register/application/views/vt_micomm.php on line 88
+[19-Nov-2015 06:44:04 Europe/Moscow] PHP Parse error:  syntax error, unexpected '}' in /home/micomm/public_html/register/application/views/vt_micomm.php on line 88
+[19-Nov-2015 06:46:28 Europe/Moscow] PHP Parse error:  syntax error, unexpected '}' in /home/micomm/public_html/register/application/views/vt_micomm.php on line 88
+[23-Nov-2015 11:59:42 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_ELSEIF, expecting T_FUNCTION in /home/micomm/public_html/register/application/models/m_cari.php on line 20
+[23-Nov-2015 14:09:53 Europe/Moscow] PHP Fatal error:  Call to a member function result() on a non-object in /home/micomm/public_html/register/application/models/m_cari.php on line 64
+[23-Nov-2015 14:11:18 Europe/Moscow] PHP Fatal error:  Call to a member function result() on a non-object in /home/micomm/public_html/register/application/models/m_cari.php on line 64
+[27-Nov-2015 08:35:37 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 74
+[27-Nov-2015 08:36:10 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 74
+[27-Nov-2015 08:36:43 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 74
+[27-Nov-2015 08:39:50 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 74
+[27-Nov-2015 08:44:23 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 111
+[27-Nov-2015 08:44:27 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 111
+[27-Nov-2015 08:48:09 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 112
+[27-Nov-2015 08:48:35 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 112
+[27-Nov-2015 08:49:39 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 112
+[27-Nov-2015 09:11:10 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 112
+[27-Nov-2015 09:12:07 Europe/Moscow] PHP Fatal error:  Call to undefined function alert() in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 111
+[27-Nov-2015 09:12:41 Europe/Moscow] PHP Fatal error:  Call to undefined function alert() in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 111
+[27-Nov-2015 09:39:03 Europe/Moscow] PHP Fatal error:  Call to undefined function alert() in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 111
+[27-Nov-2015 09:41:26 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 75
+[27-Nov-2015 09:42:21 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 75
+[27-Nov-2015 09:43:00 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 75
+[27-Nov-2015 09:43:08 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 75
+[27-Nov-2015 09:43:48 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 111
+[27-Nov-2015 09:44:03 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 111
+[27-Nov-2015 09:50:15 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 107
+[27-Nov-2015 09:50:45 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 107
+[27-Nov-2015 09:51:43 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 107
+[27-Nov-2015 09:52:29 Europe/Moscow] PHP Fatal error:  Call to undefined function alert() in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 107
+[27-Nov-2015 09:52:52 Europe/Moscow] PHP Fatal error:  Call to undefined function alert() in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 107
+[27-Nov-2015 09:53:56 Europe/Moscow] PHP Fatal error:  Call to undefined function alert() in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 107
+[27-Nov-2015 09:56:18 Europe/Moscow] PHP Fatal error:  Call to undefined function alert() in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 107
+[27-Nov-2015 09:58:20 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_ECHO in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 108
+[27-Nov-2015 09:58:23 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_ECHO in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 108
+[27-Nov-2015 09:59:36 Europe/Moscow] PHP Fatal error:  Call to undefined function alert() in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 107
+[27-Nov-2015 10:03:17 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 108
+[27-Nov-2015 10:03:20 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 108
+[27-Nov-2015 11:12:57 Europe/Moscow] PHP Fatal error:  Call to undefined function alert() in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 107
+[27-Nov-2015 11:13:47 Europe/Moscow] PHP Fatal error:  Call to undefined function alert() in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 107
+[27-Nov-2015 11:14:39 Europe/Moscow] PHP Fatal error:  Call to undefined function alert() in /home/micomm/public_html/register/application/controllers/tambahmic.php on line 107
